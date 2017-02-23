@@ -45,9 +45,14 @@ escalator是负责处理action的进程，在有很多action时，action可能�
 ## zabbix3.0宝典学学习文档：
 
 
-[zabbix-server3.0.3版本环境安装部署](http://blog.yangcvo.me/2016/06/19/%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7/Zabbix/zabbix-server3-0-3%E7%89%88%E6%9C%AC%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/)
-[zabbix3.0实现微信报警](http://blog.yangcvo.me/2016/06/22/%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7/Zabbix/zabbix3-0%E5%AE%9E%E7%8E%B0%E5%BE%AE%E4%BF%A1%E6%8A%A5%E8%AD%A6/)
-zabbix性能监控故障总结 [zabbix性能监控故障总结](http://blog.yangcvo.me/2016/02/07/zabbix-故障总结/)
-zabbix监控MySQL-添加自定义监控项 : [zabbix监控MySQL-添加自定义监控项](http://blog.yangcvo.me/2015/09/29/zabbix监控MySQL-添加自定义监控项/)
-zabbix的ICMP_Ping模版实现对客户端网络状态的监控 : [zabbix的ICMP_Ping模版实现对客户端网络状态的监控](http://blog.yangcvo.me/2015/11/18/zabbix的ICMP-Ping模版实现对客户端网络状态的监控/)
+- [zabbix-server3.0.3版本环境安装部署](http://blog.yangcvo.me/2016/06/19/%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7/Zabbix/zabbix-server3-0-3%E7%89%88%E6%9C%AC%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E9%83%A8%E7%BD%B2/)
+
+- [zabbix3.0实现微信报警](http://blog.yangcvo.me/2016/06/22/%E6%80%A7%E8%83%BD%E7%9B%91%E6%8E%A7/Zabbix/zabbix3-0%E5%AE%9E%E7%8E%B0%E5%BE%AE%E4%BF%A1%E6%8A%A5%E8%AD%A6/)
+
+
+- zabbix性能监控故障总结 [zabbix性能监控故障总结](http://blog.yangcvo.me/2016/02/07/zabbix-故障总结/)
+
+- zabbix监控MySQL-添加自定义监控项 : [zabbix监控MySQL-添加自定义监控项](http://blog.yangcvo.me/2015/09/29/zabbix监控MySQL-添加自定义监控项/)
+
+- zabbix的ICMP_Ping模版实现对客户端网络状态的监控 : [zabbix的ICMP_Ping模版实现对客户端网络状态的监控](http://blog.yangcvo.me/2015/11/18/zabbix的ICMP-Ping模版实现对客户端网络状态的监控/)
 
